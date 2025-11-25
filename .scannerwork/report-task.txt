@@ -1,0 +1,6 @@
+projectKey=petclinic-frontend
+serverUrl=http://localhost:9000
+serverVersion=25.9.0.112764
+dashboardUrl=http://localhost:9000/dashboard?id=petclinic-frontend
+ceTaskId=503c2b0d-7d35-4240-8c9d-0ac7e08ec0f1
+ceTaskUrl=http://localhost:9000/api/ce/task?id=503c2b0d-7d35-4240-8c9d-0ac7e08ec0f1
